@@ -1,5 +1,6 @@
 لطفا آدرس ریپوی خودتون در Github را به این فایل اضافه کنید. مثلا ( صادق زینلی https://github.com/szainalie/pythoncourse)
 لطفا فقط آدرس خود را اضافه کنید و از تغییر بقیه مطالب خودداری کنید.
+https://github.com/Mrs-kiani/Special_Topics
 
 امید فضلی نژاد https://github.com/fane0011/mabahes-vizhe-1
 Hossein Behdani https://github.com/HosseinBehdani/mabahes-vizhe
@@ -18,3 +19,6 @@ Mohammed Mahdi Safari ( https://github.com/MahdiSfri/Guess-Number )
 محمد امین موسوی نژاد (https://github.com/amineasy/Mabahes-Vizhe)
 
 عالیه طالبی (https://github.com/aliyeh-talebi/Mohandesi-internet.git)
+محمد فاضل محمودی (https://github.com/m138477m/Mohandesi-Internet.git)
+مبین مطهری فر(https://github.com/MobinMotaharifar/mohandesi-internet)
+عادله حسینی گل (https://github.com/Adeleh-Hosseini/University-Exercises-Mohandesi-Enternet)
